@@ -1,6 +1,6 @@
 ## 🏨 JGW Fine Stay
 
-JGW Fine Stay는 바카티오에서 상용화 중인 **[FineStay](https://finestays.com/search)**를 클론 코딩한 프로젝트입니다.
+JGW Fine Stay는 바카티오에서 상용화 중인 [**FineStay**](https://finestays.com/search)를 클론 코딩한 프로젝트입니다.
 
 <br />
 
